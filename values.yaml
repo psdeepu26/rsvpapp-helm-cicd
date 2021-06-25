@@ -7,7 +7,7 @@ image:
   repository: spatrayuni/rsvp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "2d07ab4912ad440db1b08f78f5938038dadc43af"
+  tag: "90d1378167ef38060f0130f36d3dc14fddb8e193"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
